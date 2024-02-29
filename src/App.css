@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("./assets/fonts/Montserrat.woff2");
+}
+
+.app {
+  display: grid;
+  grid-template-rows: 80px auto;
+  font-family: "Montserrat", sans-serif;
+}
